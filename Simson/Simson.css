@@ -22,7 +22,7 @@ h1 {
     margin-bottom: 10px;
     letter-spacing: 1px;
     background: linear-gradient(90deg, #ffcc00, #ff6b6b);
-    
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
